@@ -1,6 +1,6 @@
 
 
-public abstract class User  {
+public abstract class User  {//единственной отвественности))
     protected int id;
     protected String name;
     protected String lastname;
